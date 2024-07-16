@@ -1,0 +1,29 @@
+.main{
+    background-color: #d3d3d3;
+    height: 300px;
+    padding: 20px;
+    
+}
+.css{
+    background-color: #ffe4e1;
+    color: #8b0000;
+}
+.explore{
+    background-color: #d3d3d3;
+    color: #545658;
+}
+.link{
+    background-color: #e4e4c1;
+    color: #228b3f;
+}
+.inner{
+    background-color: #ffff;
+    color:#ddaf49 ;
+}
+.all{
+    background-color: #d3d3d3;
+    color: #545658;
+}
+.dot{
+    color: #545658; 
+}
